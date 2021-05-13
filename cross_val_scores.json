@@ -1,0 +1,27 @@
+[
+    {
+        "cross_val_scores": [
+            0.7576949556976446,
+            0.7504938895170538,
+            0.7470909377875476,
+            0.7618274835270504,
+            0.7569870798247991
+        ],
+        "mean_cros_val_score": 0.7548188692708191,
+        "model_name": "GradientBoosting_2_1",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    }
+][
+    {
+        "cross_val_scores": [
+            0.7654271944374195,
+            0.7586879893915186,
+            0.7520985418011745,
+            0.7567227090172293,
+            0.7568269183819193
+        ],
+        "mean_cros_val_score": 0.7579526706058523,
+        "model_name": "GradientBoosting_2_1 (without PCA)",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    }
+]

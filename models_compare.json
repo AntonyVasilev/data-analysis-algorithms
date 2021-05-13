@@ -1,0 +1,85 @@
+[
+    {
+        "model": [
+    {
+        "model": "GradientBoosting_1_1",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 150
+        },
+        "test_score": 0.7430047373568078,
+        "train_score": 0.8827086067556625
+    },
+    {
+        "model": "GradientBoosting_1_2",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 150
+        },
+        "test_score": 0.6809751831626439,
+        "train_score": 0.8185851875070087
+    },
+    {
+        "model": "GradientBoosting_2_1",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 150
+        },
+        "test_score": 0.7598959631013958,
+        "train_score": 0.8681776769124272
+    },
+    {
+        "model": "GradientBoosting_2_2",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 150
+        },
+        "test_score": 0.6983688821512091,
+        "train_score": 0.8026381820031937
+    }
+][
+    {
+        "model": "GradientBoosting_1_1",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 200
+        },
+        "test_score": 0.7316980530669067,
+        "train_score": 0.8949655010185646
+    },
+    {
+        "model": "GradientBoosting_1_2",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 200
+        },
+        "test_score": 0.6740467923667297,
+        "train_score": 0.8331411928662389
+    },
+    {
+        "model": "GradientBoosting_2_1",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 200
+        },
+        "test_score": 0.756600102694392,
+        "train_score": 0.8782802051118896
+    },
+    {
+        "model": "GradientBoosting_2_2",
+        "parameters": {
+            "alpha": 0.1,
+            "max_depth": 5,
+            "n_trees": 200
+        },
+        "test_score": 0.6975094128114411,
+        "train_score": 0.8111515297843985
+    }
+]
