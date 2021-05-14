@@ -24,4 +24,91 @@
         "model_name": "GradientBoosting_2_1 (without PCA)",
         "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
     }
+][
+    {
+        "cross_val_scores": [
+            0.7040128353591428,
+            0.6972994505467416,
+            0.7029187923969216,
+            0.6839373355266518,
+            0.6973881798500816
+        ],
+        "mean_cros_val_score": 0.6971113187359078,
+        "model_name": "GradientBoosting_2_2",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    },
+    {
+        "cross_val_scores": [
+            0.6043842060439513,
+            0.6101896393659709,
+            0.5781673559785944,
+            0.6001375365103452,
+            0.5918876220193114
+        ],
+        "mean_cros_val_score": 0.5969532719836346,
+        "model_name": "GradientBoosting_2_2 (without PCA)",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    }
+][
+    {
+        "cross_val_scores": [
+            0.7313958221449157,
+            0.7275161884649465,
+            0.7213852258921754,
+            0.7348785643924428,
+            0.7359581786814783
+        ],
+        "mean_cros_val_score": 0.7302267959151917,
+        "model_name": "GradientBoosting_1_1",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    },
+    {
+        "cross_val_scores": [
+            0.685008260424957,
+            0.6834575324097939,
+            0.6699668530974559,
+            0.6671214842678317,
+            0.6805973350880126
+        ],
+        "mean_cros_val_score": 0.6772302930576102,
+        "model_name": "GradientBoosting_1_2",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    }
+][
+    {
+        "cross_val_scores": [
+            0.7313958221449157,
+            0.7275161884649465,
+            0.7213852258921754,
+            0.7348785643924428,
+            0.7359581786814783
+        ],
+        "mean_cros_val_score": 0.7302267959151917,
+        "model_name": "GradientBoosting_1_1",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    },
+    {
+        "cross_val_scores": [
+            0.685008260424957,
+            0.6834575324097939,
+            0.6699668530974559,
+            0.6671214842678317,
+            0.6805973350880126
+        ],
+        "mean_cros_val_score": 0.6772302930576102,
+        "model_name": "GradientBoosting_1_2",
+        "params": "n_trees=200, coef=1, max_depth=5, alpha=0.1"
+    },
+    {
+        "cross_val_scores": [
+            0.7734260072403333,
+            0.759909601761823,
+            0.7638396548449826,
+            0.7739795154249098,
+            0.7703616815219392
+        ],
+        "mean_cros_val_score": 0.7683032921587976,
+        "model_name": "GradientBoosting_2_1",
+        "params": "n_trees=250, coef=1, max_depth=3, alpha=0.1"
+    }
 ]
