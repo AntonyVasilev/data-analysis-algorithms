@@ -1,53 +1,13 @@
 [
     {
         "parameters": {
-            "alpha": 0.1,
-            "coef": 1,
-            "max_depth": 5,
-            "n_trees": 100
-        },
-        "test_score": 0.7524224886595586,
-        "train_score": 0.8656729805353374
-    },
-    {
-        "parameters": {
             "alpha": 0.01,
             "coef": 1,
-            "max_depth": 5,
-            "n_trees": 100
-        },
-        "test_score": 0.3850163058961763,
-        "train_score": 0.3745802079639794
-    },
-    {
-        "parameters": {
-            "alpha": 0.1,
-            "coef": 1,
-            "max_depth": 10,
-            "n_trees": 100
-        },
-        "test_score": 0.6824057688742108,
-        "train_score": 0.9523149918373826
-    },
-    {
-        "parameters": {
-            "alpha": 0.01,
-            "coef": 1,
-            "max_depth": 10,
-            "n_trees": 100
-        },
-        "test_score": 0.37832727391391163,
-        "train_score": 0.44186846211878317
-    },
-    {
-        "parameters": {
-            "alpha": 0.1,
-            "coef": 1,
-            "max_depth": 5,
+            "max_depth": 3,
             "n_trees": 150
         },
-        "test_score": 0.7384752073996305,
-        "train_score": 0.8849240617843873
+        "test_score": 0.6640485601480408,
+        "train_score": 0.6662731998575226
     },
     {
         "parameters": {
@@ -56,38 +16,38 @@
             "max_depth": 5,
             "n_trees": 150
         },
-        "test_score": 0.7323264076332865,
-        "train_score": 0.7508335155565384
+        "test_score": 0.6756634397642145,
+        "train_score": 0.7000766551667861
     },
     {
         "parameters": {
-            "alpha": 0.1,
+            "alpha": 0.01,
+            "coef": 1,
+            "max_depth": 7,
+            "n_trees": 150
+        },
+        "test_score": 0.6785514527019738,
+        "train_score": 0.7318415964427609
+    },
+    {
+        "parameters": {
+            "alpha": 0.01,
             "coef": 1,
             "max_depth": 10,
             "n_trees": 150
         },
-        "test_score": 0.6660249026419387,
-        "train_score": 0.961626462050401
+        "test_score": 0.671424371775001,
+        "train_score": 0.7680444400540342
     },
     {
         "parameters": {
             "alpha": 0.01,
             "coef": 1,
-            "max_depth": 10,
-            "n_trees": 150
-        },
-        "test_score": 0.7186725344075524,
-        "train_score": 0.8246961224800793
-    },
-    {
-        "parameters": {
-            "alpha": 0.1,
-            "coef": 1,
-            "max_depth": 5,
+            "max_depth": 3,
             "n_trees": 200
         },
-        "test_score": 0.7354620852353426,
-        "train_score": 0.8968268968538073
+        "test_score": 0.7114740036138499,
+        "train_score": 0.7242267397552451
     },
     {
         "parameters": {
@@ -96,18 +56,18 @@
             "max_depth": 5,
             "n_trees": 200
         },
-        "test_score": 0.7758714880355906,
-        "train_score": 0.8074329057865388
+        "test_score": 0.7201222551690576,
+        "train_score": 0.7582610333283332
     },
     {
         "parameters": {
-            "alpha": 0.1,
+            "alpha": 0.01,
             "coef": 1,
-            "max_depth": 10,
+            "max_depth": 7,
             "n_trees": 200
         },
-        "test_score": 0.652427099009103,
-        "train_score": 0.9655338339543017
+        "test_score": 0.7206607304966363,
+        "train_score": 0.7908882615520952
     },
     {
         "parameters": {
@@ -116,7 +76,47 @@
             "max_depth": 10,
             "n_trees": 200
         },
-        "test_score": 0.7555374064321317,
-        "train_score": 0.8854397372960476
+        "test_score": 0.708530571013493,
+        "train_score": 0.8281246945111194
+    },
+    {
+        "parameters": {
+            "alpha": 0.01,
+            "coef": 1,
+            "max_depth": 3,
+            "n_trees": 250
+        },
+        "test_score": 0.720675517659119,
+        "train_score": 0.7379256132702541
+    },
+    {
+        "parameters": {
+            "alpha": 0.01,
+            "coef": 1,
+            "max_depth": 5,
+            "n_trees": 250
+        },
+        "test_score": 0.726644941339559,
+        "train_score": 0.7724535989293422
+    },
+    {
+        "parameters": {
+            "alpha": 0.01,
+            "coef": 1,
+            "max_depth": 7,
+            "n_trees": 250
+        },
+        "test_score": 0.7241939641059478,
+        "train_score": 0.8053586177876678
+    },
+    {
+        "parameters": {
+            "alpha": 0.01,
+            "coef": 1,
+            "max_depth": 10,
+            "n_trees": 250
+        },
+        "test_score": 0.7094533834200054,
+        "train_score": 0.8429089570786856
     }
 ]
