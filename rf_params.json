@@ -1,0 +1,130 @@
+[
+    {
+        "parameters": {
+            "max_depth": 3,
+            "n_trees": 100
+        },
+        "test_score": 0.689189613807092,
+        "train_score": 0.6808257078739667
+    },
+    {
+        "parameters": {
+            "max_depth": 5,
+            "n_trees": 100
+        },
+        "test_score": 0.7021157016226949,
+        "train_score": 0.7495048740354532
+    },
+    {
+        "parameters": {
+            "max_depth": 7,
+            "n_trees": 100
+        },
+        "test_score": 0.6855228781529472,
+        "train_score": 0.806159890191939
+    },
+    {
+        "parameters": {
+            "max_depth": 10,
+            "n_trees": 100
+        },
+        "test_score": 0.6029574250500132,
+        "train_score": 0.8884039262603418
+    },
+    {
+        "parameters": {
+            "max_depth": 3,
+            "n_trees": 150
+        },
+        "test_score": 0.6822944073253672,
+        "train_score": 0.6906044008195271
+    },
+    {
+        "parameters": {
+            "max_depth": 5,
+            "n_trees": 150
+        },
+        "test_score": 0.716451118948608,
+        "train_score": 0.7672130190585789
+    },
+    {
+        "parameters": {
+            "max_depth": 7,
+            "n_trees": 150
+        },
+        "test_score": 0.6744957189623358,
+        "train_score": 0.822436174708594
+    },
+    {
+        "parameters": {
+            "max_depth": 10,
+            "n_trees": 150
+        },
+        "test_score": 0.5943011841057191,
+        "train_score": 0.8946273710357642
+    },
+    {
+        "parameters": {
+            "max_depth": 3,
+            "n_trees": 200
+        },
+        "test_score": 0.6639928878870078,
+        "train_score": 0.6962703713594334
+    },
+    {
+        "parameters": {
+            "max_depth": 5,
+            "n_trees": 200
+        },
+        "test_score": 0.6898698908569505,
+        "train_score": 0.7641118037811909
+    },
+    {
+        "parameters": {
+            "max_depth": 7,
+            "n_trees": 200
+        },
+        "test_score": 0.6743343201896984,
+        "train_score": 0.8243227358125695
+    },
+    {
+        "parameters": {
+            "max_depth": 10,
+            "n_trees": 200
+        },
+        "test_score": 0.6040351103377603,
+        "train_score": 0.898829307197229
+    },
+    {
+        "parameters": {
+            "max_depth": 3,
+            "n_trees": 250
+        },
+        "test_score": 0.6568075912612578,
+        "train_score": 0.6727427914568742
+    },
+    {
+        "parameters": {
+            "max_depth": 5,
+            "n_trees": 250
+        },
+        "test_score": 0.6726684808554974,
+        "train_score": 0.7651024374870965
+    },
+    {
+        "parameters": {
+            "max_depth": 7,
+            "n_trees": 250
+        },
+        "test_score": 0.6329012383773978,
+        "train_score": 0.8316130286520161
+    },
+    {
+        "parameters": {
+            "max_depth": 10,
+            "n_trees": 250
+        },
+        "test_score": 0.593836096014195,
+        "train_score": 0.9057872132209679
+    }
+]
